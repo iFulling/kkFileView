@@ -73,11 +73,6 @@
 				//poster:'ckplayer/poster.png',//封面图片
 				menu:[
 			{
-				title:'kkFileView',
-				link:'https://www.kkview.cn',
-				underline:true
-			},
-			{
 				title:'播放/暂停',
 				click:'player.playOrPause',
 			},

@@ -19,14 +19,12 @@
 <nav class="site-nav navbar navbar-inverse navbar-fixed-top">
     <div class="container">
         <div class="navbar-header">
-            <a class="navbar-brand" href="https://kkview.cn" target="_blank">kkFileView</a>
+            <a class="navbar-brand" href="./index">kkFileView</a>
         </div>
         <ul class="nav navbar-nav">
             <li><a href="./index">首页</a></li>
             <li><a href="./integrated">接入说明</a></li>
             <li class="active"><a href="./record">版本发布记录</a></li>
-            <li><a href="./sponsor">赞助开源</a></li>
-            <li><a href="./contact">技术支持</a></li>
         </ul>
     </div>
 </nav>
